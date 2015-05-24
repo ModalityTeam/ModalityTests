@@ -6,6 +6,6 @@
   dependencies: ["Modality", "UnitTest"],
   license: "GPL",
   copyright: "Modality Team",
-  url: "http://modality.bek.no"
+  url: "http://modality.bek.no",
   organization: "Modality-team"
 )
